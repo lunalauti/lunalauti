@@ -2,8 +2,8 @@
 - a Software Engineering Student, currently in the fourth year of the program.
 ---
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
-[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lauluna817@gmail.com)](mailto:lauluna817@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/lunalauti)](https://www.linkedin.com/lunalauti)
+[![Gmail Badge](https://img.shields.io/badge/-lauluna817@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lauluna817@gmail.com)](mailto:lauluna817@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-lunalauti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/lunalauti)](https://www.linkedin.com/lunalauti)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
