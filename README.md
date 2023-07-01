@@ -3,7 +3,7 @@
 ---
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 [![Gmail Badge](https://img.shields.io/badge/-lauluna817@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lauluna817@gmail.com)](mailto:lauluna817@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LautaroLuna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lautaro-luna-634538230/)](https://www.linkedin.com/in/lautaro-luna-634538230/)
+[![Linkedin Badge](https://img.shields.io/badge/-Lautaro_Luna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lautaro-luna-634538230/)](https://www.linkedin.com/in/lautaro-luna-634538230/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
