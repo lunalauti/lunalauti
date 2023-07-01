@@ -1,5 +1,18 @@
-### Hi there 👋
+### Hi there!👋 i'm Lautaro
+- a Software Engineering Student, currently in the fourth year of the program.
+---
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+ 
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- 🌐 &nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 <!--
 **lunalauti/lunalauti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
